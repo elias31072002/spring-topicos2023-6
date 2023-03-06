@@ -1,4 +1,4 @@
-package br.gov.sp.fatec.springtopicos20231;
+package src.main.java.br.gov.sp.fatec.springtopicos20231;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
